@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class InsertionSort {
     public static void main(String[] args) {
-        int[] array = {12, 120, 6, 113, 105, 5};
+        int[] array = {5, 4, 10, 1, 6, 2};
         InsertionSort iS = new InsertionSort();
         iS.insertionSort(array);
 
@@ -11,10 +11,12 @@ public class InsertionSort {
     private void insertionSort(int[] array) {
         for (int i = 0; i < array.length - 1; i++) {
             int j = i + 1;
-            while (j > 0 && array[j] < array[j - 1]) {
-                swap(array, j - 1, j);
+            int temp = array[j];
+            while (j > 0 && temp < array[j - 1]) {
+                array[j] = array[j-1];
                 j--;
             }
+            array[j] = temp;
             System.out.println("i= " + i + ", j= " + j + " " + Arrays.toString(array));
         }
     }
