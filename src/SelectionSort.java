@@ -22,7 +22,6 @@ public class SelectionSort {
             for (int j = i +1; j < array.length; j++) {
                 if (array[j] < array[min]) {
                     min = j;
-
                 }
             }
             if (min != i)
@@ -31,7 +30,6 @@ public class SelectionSort {
             System.out.println(Arrays.toString(array));
         }
         return array;
-
     }
 
 
