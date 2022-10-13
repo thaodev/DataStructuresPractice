@@ -6,7 +6,7 @@ public class Palindrome {
         System.out.println(palindromeCheck("illuminati"));
         System.out.println(palindromeCheck("abba"));
         System.out.println(reverseString("hellos"));
-       
+
 
 
     }

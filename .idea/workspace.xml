@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86b49abe-61db-414e-8dbc-2f40e40c8ad1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndicesTwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniqueString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/findDuplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,37 +52,37 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="Array3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array3" />
+  <component name="RunManager" selected="Application.ValidAnagram">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="DataStucturesPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+    <configuration name="IndicesTwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndicesTwoSum" />
       <module name="DataStucturesPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList" />
+    <configuration name="UniqueString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UniqueString" />
       <module name="DataStucturesPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSort" />
+    <configuration name="ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidAnagram" />
       <module name="DataStucturesPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+    <configuration name="findDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findDuplicate" />
       <module name="DataStucturesPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.Array3" />
+        <item itemvalue="Application.ValidAnagram" />
+        <item itemvalue="Application.IndicesTwoSum" />
+        <item itemvalue="Application.findDuplicate" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.UniqueString" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +112,7 @@
       <workItem from="1659679092793" duration="598000" />
       <workItem from="1662410954032" duration="662000" />
       <workItem from="1664757029279" duration="1216000" />
-      <workItem from="1665267567107" duration="7590000" />
+      <workItem from="1665267567107" duration="26320000" />
     </task>
     <servers />
   </component>
@@ -132,6 +137,21 @@
           <url>file://$PROJECT_DIR$/src/LinkedList.java</url>
           <line>44</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/findDuplicate.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/findDuplicate.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ValidAnagram.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
