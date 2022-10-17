@@ -7,6 +7,10 @@ public class ValidAnagram {
       System.out.println(isAnagram("anagram" , "nagaram"));
     }
 
+    /**
+     * An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase,
+     * typically using all the original letters exactly once.
+     */
     public static boolean isAnagram(String s, String t) {
         Map<Character, Integer> mapS = new HashMap<Character, Integer>();
         Map<Character, Integer> mapT = new HashMap<Character, Integer>();

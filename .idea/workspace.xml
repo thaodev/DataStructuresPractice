@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86b49abe-61db-414e-8dbc-2f40e40c8ad1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UniqueEmails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replaceMinElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MajorityElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TopKFrequentElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidAnagram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +49,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UniqueEmails">
-    <configuration name="IndicesTwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IndicesTwoSum" />
+  <component name="RunManager" selected="Application.TopKFrequentElements">
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefix" />
       <module name="DataStucturesPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TopKFrequentElements" />
+        <item itemvalue="Application.LongestCommonPrefix" />
         <item itemvalue="Application.UniqueEmails" />
         <item itemvalue="Application.replaceMinElements" />
-        <item itemvalue="Application.TopKFrequentElements" />
         <item itemvalue="Application.ValidAnagram" />
-        <item itemvalue="Application.IndicesTwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +110,7 @@
       <workItem from="1662410954032" duration="662000" />
       <workItem from="1664757029279" duration="1216000" />
       <workItem from="1665267567107" duration="27941000" />
-      <workItem from="1665766190812" duration="7008000" />
+      <workItem from="1665766190812" duration="12261000" />
     </task>
     <servers />
   </component>
